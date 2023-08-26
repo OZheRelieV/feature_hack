@@ -9,4 +9,4 @@
 
 ### Технологический стек
 - язык: `python`
-- библиотеки: `nest_asyncio`, `numpy`, `pandas`, `requests`, `uvicorn`, `fastapi`, `pydantic`, `pyngrok`, `sklearn`, `transformers`, `wikipedia`
+- библиотеки: `nest_asyncio`, `numpy`, `pandas`, `requests`, `uvicorn`, `fastapi`, `pydantic`, `pyngrok`, `sklearn`, `transformers`
